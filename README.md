@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 - 🌱 I’m currently studying **Software Engineering**
 
-- 📫 How to reach me **elduendemc21@gmail.com**
+- 📫 How to reach me **sebastian.manrrique96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
