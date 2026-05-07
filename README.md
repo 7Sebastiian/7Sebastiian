@@ -6,8 +6,6 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
-
 ## 📌 About Me
 - Hi, I'm Sebastian Manrrique 👋
 - Software Engineering student at Jala University
@@ -22,9 +20,6 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=7Sebastiian&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sebastian Manrrique's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=7Sebastiian&theme=radical&radius=10" alt="7Sebastiian's Activity Graph" />
 </p>
 
 
@@ -71,12 +66,6 @@
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
 
-</p>
-
-<p align="center">
-  <a href="https://github.com/7Sebastiian">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=7Sebastiian&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
 </p>
 
 ## 🔗 Connect with Me
