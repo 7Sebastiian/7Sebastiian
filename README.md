@@ -9,12 +9,9 @@
 ## 📌 About Me
 - Hi, I'm Sebastian Manrrique 👋
 - Software Engineering student at Jala University
-- I'm a backend-focused developer with full-stack experience, passionate
-- about building scalable and well-structured systems. I enjoy working
-- close to the server side — designing APIs, modeling data, and
-- integrating services efficiently.
-- Currently deepening my knowledge in backend architecture, RESTful APIs,
-- and containerization.
+- I'm a backend-focused developer with full-stack experience, passionate about building scalable and well-structured systems. I enjoy working
+- close to the server side — designing APIs, modeling data, and integrating services efficiently.
+- Currently deepening my knowledge in backend architecture, RESTful APIs, and containerization.
 
 
 ## 📊 GitHub Stats & Trophies
